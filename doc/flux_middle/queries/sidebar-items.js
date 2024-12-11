@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["QueryErr"],"fn":["dispatch_query","run_with_cache"],"macro":["empty_query"],"struct":["Providers","Queries","QueryErrAt"],"type":["Cache","QueryResult"]};

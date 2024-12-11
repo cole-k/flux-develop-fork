@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["AttrOnOpaque","CFGError","DuplicatedAttr","InvalidAttr","MismatchedSpecName","MissingVariant","SyntaxErr"]};

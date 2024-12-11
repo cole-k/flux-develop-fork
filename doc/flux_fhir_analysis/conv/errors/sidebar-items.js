@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["AmbiguousAssocType","AssocTypeNotFound","GenericArgCountMismatch","GenericsOnPrimitiveSort","GenericsOnSelf","GenericsOnTyParam","GenericsOnUserDefinedOpaqueSort","IncorrectGenericsOnSort","InvalidBaseInstance","RefinedUnrefinableType","TooFewGenericArgs","TooManyGenericArgs"]};
